@@ -28,8 +28,7 @@ $$
 
 onde os termos abaixo das duas primeiras linhas seguem a lógica
 $$
-c_1 =
-\begin{vmatrix}
+c_1 = \begin{vmatrix}
 a_n & a_{n-2} \\
 a_{n-1} & a_{n-3}
 \end{vmatrix}
