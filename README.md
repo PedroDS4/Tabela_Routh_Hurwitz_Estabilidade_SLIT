@@ -15,6 +15,7 @@ Para isso existem métodos para verificar a estabilidade desses sistemas, um del
 
 A tabela para o polinômio genérico $D(s)$ é dada por
 
+$$
 \begin{array}{c|cccc}
 s^n & a_n & a_{n-2} & a_{n-4} & \cdots \\
 s^{n-1} & a_{n-1} & a_{n-3} & a_{n-5} & \cdots \\
@@ -23,7 +24,7 @@ s^{n-2} & c_1 & c_2 & c_3 & \cdots \\
 s^1 & \cdot & \cdot & \cdot & \\
 s^0 & \cdot & \cdot & \cdot &
 \end{array}
-
+$$
 
 onde os termos abaixo das duas primeiras linhas seguem a lógica
 $$
