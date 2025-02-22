@@ -27,6 +27,7 @@ s^0 & \cdot & \cdot & \cdot &
 $$
 
 onde os termos abaixo das duas primeiras linhas seguem a lógica
+
 $$
 c_1 = \begin{vmatrix}
 a_n & a_{n-2} \\
